@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\game c ++\gameSDLcpp\gameSDLcpp\main.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  gameSDLcpp.vcxproj -> D:\game c ++\gameSDLcpp\x64\Debug\gameSDLcpp.exe

@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\game c ++\gameSDLcpp\gameSDLcpp\main.cpp(324,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\game c ++\gameSDLcpp\gameSDLcpp\main.cpp(325,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\game c ++\gameSDLcpp\gameSDLcpp\main.cpp(387,26): warning C4018: '<': signed/unsigned mismatch
+D:\game c ++\gameSDLcpp\gameSDLcpp\main.cpp(401,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\game c ++\gameSDLcpp\gameSDLcpp\main.cpp(402,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\game c ++\gameSDLcpp\gameSDLcpp\main.cpp(430,26): warning C4018: '<': signed/unsigned mismatch
+D:\game c ++\gameSDLcpp\gameSDLcpp\main.cpp(441,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\game c ++\gameSDLcpp\gameSDLcpp\main.cpp(442,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  gameSDLcpp.vcxproj -> D:\game c ++\gameSDLcpp\Debug\gameSDLcpp.exe
